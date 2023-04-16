@@ -7,6 +7,7 @@ I'm a software developer with a passion for creating intuitive and user-friendly
 - Proficient in .NET, Angular, and node.js 💻
 - Experienced in CI/CD and agile development methodologies 🚀
 - Strong problem-solving and communication skills 🔍💬
+- Excellent in authoring documentation
 
 ## Contact
 
