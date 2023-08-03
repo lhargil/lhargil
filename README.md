@@ -2,6 +2,8 @@
 
 I'm a software developer with a passion for building and integrating intuitive, user-friendly applications. When I'm not coding, you can find me taking 📷 for candid street photographs.
 
+I do very cool stuff at my [org repo](https://github.com/TeamSnaR), check it out!
+
 ## Skills
 
 - Full-stack web applications development using ASP.NET MVC, ASP.NET Core C#, Nest JS and Angular Typescript 💻
