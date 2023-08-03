@@ -18,4 +18,4 @@ I do very cool stuff at my [org repo](https://github.com/TeamSnaR), check it out
 
 ## Follow
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lhar-gil/), [Twitter/X](https://x.com) or read my [blog](https://lhargil.com/author/lhar/). I'm always open to discussing new opportunities or collaborating on interesting projects. 🤝
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lhar-gil/), [Twitter/X](https://x.com/lhargil) or read my [blog](https://lhargil.com/author/lhar/). I'm always open to discussing new opportunities or collaborating on interesting projects. 🤝
