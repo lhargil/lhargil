@@ -4,10 +4,6 @@ I'm Lhar, a senior software developer with over a decade of experience in web de
 
 I am a life-long learner who is known for mentoring and problem-solving skills, adaptability, and positive attitude. I am a highly self-motivated individual who can make a meaningful impact, while bringing some fun and levity to the workplace.
 
-When I'm not coding, you can find me taking 📷 of [candid street photographs and many others](www.behance.net/lhar-gil).
-
-I do very cool stuff at my [org repo](https://github.com/TeamSnaR), check it out!
-
 ## Skills
 
 - Full-stack web applications development using ASP.NET MVC, ASP.NET Core C#, Nest JS and Angular Typescript 💻
